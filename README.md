@@ -10,6 +10,9 @@
    <a href="https://twitter.com/_Shubham0Rajput">
     <img src="https://img.shields.io/badge/-@_Shubham0Rajput-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Shubham0Rajput">
    <a/>
+   <a href="https://t.me/Shubham0Rajput">
+    <img src="https://img.shields.io/badge/-Shubham0Rajput-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shubham0Rajput">
+  <a/>
 </p>
 
 <img src="https://github.com/Shubham0Rajput/Shubham0Rajput/blob/master/assets/code.svg" width="320" align='right'>
@@ -36,10 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       13 hrs 36 mins  ████████████████████▓░░░░   83.20 % 
-Docker       2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python       ████████████████▓░░░   90.20 % 
+OpenCV       ██████████████▒░░░░░   75.95 % 
+Docker       █████████▒░░░░░░░░░░   50.30 %
+Others       █████▒░░░░░░░░░░░░░░   30.67 % 
+Bash Script  ▓░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
