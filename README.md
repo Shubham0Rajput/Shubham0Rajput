@@ -13,6 +13,9 @@
    <a href="https://t.me/Shubham0Rajput">
     <img src="https://img.shields.io/badge/-Shubham0Rajput-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Shubham0Rajput">
   <a/>
+  <a href="https://www.linkedin.com/in/shubham0rajput/">
+    <img src="https://img.shields.io/badge/-Shubham0Rajput-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham0rajput/">
+  <a/>
 </p>
 
 <img src="https://github.com/Shubham0Rajput/Shubham0Rajput/blob/master/assets/code.svg" width="320" align='right'>
