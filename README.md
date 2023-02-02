@@ -1,7 +1,7 @@
 ## Hello Hello , I'm Shubham! 👋🏻
 
 <p >
-   <a href="mailto:srajput1912000@gmail.com">
+   <a href="mailto:shubham2385@gmail.com">
     <img src="https://img.shields.io/badge/-srajput1912000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srajput1912000@gmail.com">
    <a/>
    <!--  <a href="https://github.com/Shubham0Rajput/Shubham0Rajput"> 
@@ -22,7 +22,7 @@
 
 ---
 
-- ⚡ I am Shubham Rajput, a third-year student at DITE studying Mechatronics Engineering.
+- ⚡ I am Shubham Rajput, student at NIT Delhi studying MTech ECE.
 - 🎓 I mostly do Machine Learning development but being a Mechatronics enthusiast I am constantly exploring other fields too.
 - 🤖 These days I am learning OCR (Optical Character Recognition) in Python
 - 😋 Besides programming, I love watching Anime and watching different TV series.
